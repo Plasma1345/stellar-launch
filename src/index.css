@@ -186,4 +186,13 @@
   .text-body {
     @apply text-base sm:text-lg text-muted-foreground leading-relaxed;
   }
+
+  /* Custom animated gradient for hero section */
+  .bg-gradient-animated-mesh {
+    background-image: radial-gradient(at 40% 20%, rgb(79, 70, 229) 0px, transparent 50%),
+                      radial-gradient(at 80% 0%, rgb(34, 211, 238) 0px, transparent 50%),
+                      radial-gradient(at 0% 50%, rgba(255,100,200,0.5) 0px, transparent 50%); /* Subtle pinkish accent */
+    background-size: 200% 200%;
+    animation: background-pan 20s ease infinite;
+  }
 }
