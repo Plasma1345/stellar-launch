@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "vite-reference",
+	"name": "stellar-launch-landi-3ocn5phjs8j7bffk0415m",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
