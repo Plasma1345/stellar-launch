@@ -2,7 +2,7 @@
 
 This repository provides a robust and scalable starting point for building full-stack applications with Cloudflare Workers (using Hono.js) and a React frontend (powered by Vite, TypeScript, and Tailwind CSS with shadcn/ui). It's designed for rapid development and high performance on Cloudflare's global network.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Plasma1345/stellar-launch)
 
 ## Description
 
@@ -129,4 +129,4 @@ Deploying your application to Cloudflare Workers and Pages is straightforward.
 
 Upon successful deployment, Wrangler will provide you with the URL where your application is live.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Plasma1345/stellar-launch)
